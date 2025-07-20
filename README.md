@@ -7,7 +7,7 @@ LeNet 기반 CNN 모델을 통해 Google Landmark Dataset 분류 문제를 다�
 
 ## ✅ 프로젝트 개요
 
-- Google Landmark Dataset을 기반으로 여행지 분류 및 추천 모델 설계
+- Google Landmark Dataset을 기반으로 여행지 분류 및 추천 모델 설계 (https://www.kaggle.com/datasets/google/google-landmarks-dataset?resource=download)
 - 사용자가 업로드한 이미지를 입력으로 받아 유사 Landmark Top-5 추천
 - CNN 모델 구조로 LeNet을 활용하여 학습 및 예측
 - 이미지 증강 (좌우 반전, 회전 등)을 통해 적은 데이터에서도 학습 성능 확보
